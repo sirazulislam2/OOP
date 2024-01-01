@@ -1,0 +1,1 @@
+*/2 * * * * /user/local/src/scripts/email.php /path/to/cron.php >/dev/null 2>&1
